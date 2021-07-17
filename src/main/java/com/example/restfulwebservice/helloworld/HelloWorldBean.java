@@ -1,4 +1,4 @@
-package com.example.restfulwebservice;
+package com.example.restfulwebservice.helloworld;
 
 //lombok: 빈 클래스를 만들 떄 getter, setter, constructor 등을 자동 생성해줌
 //@Data를 추가해주면 됨
